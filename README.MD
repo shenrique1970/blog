@@ -1,0 +1,1 @@
+# Faz parte do aprendizado de Python
